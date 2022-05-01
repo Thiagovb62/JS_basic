@@ -24,3 +24,4 @@
 //  const num2 = 10;
 //  console.log(num1 != num2);  false
 //  console.log(num2 !== num1);  true
+console.log();
