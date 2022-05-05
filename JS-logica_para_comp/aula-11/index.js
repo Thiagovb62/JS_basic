@@ -19,7 +19,7 @@ if (vdd) {
 console.log(nome, nome2);
 
 // not hoisting
-/*console.log(s0brenome);
+/*console.log(sobrenome);
 
 let sobrenome = 'assis'*/
 
